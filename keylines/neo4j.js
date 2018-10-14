@@ -1,3 +1,8 @@
+/**
+ * Created by Arthur Virzin
+ * Date: 12/10/2018
+ */
+
 // When this function is called, it creates a module.
 Neo4j = function(username, password) {
     var api = {

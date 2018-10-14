@@ -10,10 +10,12 @@ To get all the round details I got some data from Crunchbase and stored it in th
 * `Investments.csv`;
 * `Founders.csv`.
 
-The database that I chose was Neo4J. It has very nice documentation and Cypher is a very easy to learn.
+The database that I chose was Neo4J. It has very nice documentation and Cypher is a very easy to learn. The script to create the graph is under `scripts` folder.
+
+![Theranos investment rounds using Neo4j Browser](https://s3.amazonaws.com/flappermedia/other/custom/theranos_graph_neo4j.png)
 
 # Visualization tools
 
 I would share the whole project, but I chose Keylines from Cambridge Intelligence as my favorite visualization tool but it is not free. It was very easy to implement it and I definetely will use this component in my future projects. Basically all the code is stored in `app.js` and `neo4j.js` under `keylines` folder.
 
-![Theranos investment rounds using Keylines](https://s3.amazonaws.com/flappermedia/other/custom/theranos_graph.png)
+![Theranos investment rounds using Keylines](https://s3.amazonaws.com/flappermedia/other/custom/theranos_graph_keylines.png)
