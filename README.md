@@ -18,4 +18,4 @@ The database that I chose was Neo4J. It has very nice documentation and Cypher i
 
 I would share the whole project, but I chose Keylines from Cambridge Intelligence as my favorite visualization tool but it is not free. It was very easy to implement it and I definetely will use this component in my future projects. Basically all the code is stored in `app.js` and `neo4j.js` under `keylines` folder.
 
-![Theranos investment rounds using Keylines](https://s3.amazonaws.com/flappermedia/other/custom/theranos_graph_keylines.png)
+![Theranos investment rounds using Keylines](https://s3.amazonaws.com/flappermedia/other/custom/theranos_graph_ks.png)
